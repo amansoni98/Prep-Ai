@@ -15,7 +15,8 @@ Prereqs: Node 18+, Python 3.10+, a MongoDB Atlas URI, a Groq API key (and/or loc
 ```bash
 # 1) AI service
 cd ai-service
-python -m venv .venv && source .venv/bin/activate
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 cp .env.example .env            # add GROQ_API_KEY
 uvicorn app.main:app --port 8000 --reload

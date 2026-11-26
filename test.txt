@@ -1,0 +1,40 @@
+Company Name: Nexora Cloud Systems Pvt. Ltd.
+
+Role: Trainee Software Engineer – Full Stack & AI
+
+Location: Bengaluru / Hybrid
+
+
+Job Description:
+
+About Us:
+
+Nexora Cloud Systems builds scalable enterprise workflow automation and AI-powered SaaS tools for modern businesses. We are looking for a driven Trainee Software Engineer to join our core product engineering team.
+
+Key Responsibilities:
+
+Design, build, and maintain scalable web applications using React.js, Node.js, and Express.js.
+
+Architect and optimize MongoDB database schemas, indexing strategies, and RESTful APIs.
+
+Integrate Large Language Models (LLMs), LangChain workflows, and prompt engineering pipelines into user-facing features.
+
+Implement secure authentication and authorization mechanisms using JWT and Role-Based Access Control (RBAC).
+
+Write clean, testable code using TypeScript and automated testing frameworks (Jest / Mocha).
+
+Containerize backend microservices using Docker and optimize API latency with Redis caching.
+
+Collaborate with cloud engineers to deploy and monitor services on AWS.
+
+Required Qualifications & Skills:
+
+B.Tech / B.E. in Computer Science or a related field.
+
+Strong proficiency in JavaScript (ES6+), TypeScript, Python, or C++, with solid Data Structures & Algorithms fundamentals.
+
+Hands-on experience with the MERN stack (MongoDB, Express.js, React.js, Node.js), Redux Toolkit, and Tailwind CSS.
+
+Practical exposure to Generative AI APIs, LangChain, and PDF/document parsing pipelines.
+
+Familiarity with Git, REST APIs, JWT Authentication, Docker, Redis, and basic AWS cloud concepts.
